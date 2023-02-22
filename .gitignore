@@ -81,4 +81,3 @@ act-actions
 
 # XState typegen
 *.typegen.ts
-node_modules
